@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me nope
+- 📫 How to reach me idk
 
 <!---
 sowang2022/sowang2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
